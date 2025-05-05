@@ -1,0 +1,14 @@
+﻿.Fizz{
+    background-color: #d3d3d3;
+    color: var(--mw-dark-color);
+}
+
+.Buzz{
+    background-color: #424242;
+    color: var(--mw-light-color);
+}
+
+.FizzBuzz{
+    background-color: #ff993b;
+    color: var(--mw-dark-color);
+}
